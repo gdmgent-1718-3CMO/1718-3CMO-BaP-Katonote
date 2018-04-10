@@ -44,8 +44,7 @@ $clientcolor-5:rgba(250,120,120,1);
 @import url('https://fonts.googleapis.com/css?family=Overlock|Roboto');
 
 // type
-$myfont-family-title: 'Overlock', cursive;
-$myfont-family-base: 'Overlock', cursive;
+$myfont-family-title: 'Overlock';
 $myfont-family-base: 'Roboto', sans-serif;
 
 
@@ -61,12 +60,12 @@ $font-weight-bold: 800;
 //------------------------------
 
 // type
-$clientfont-family-base: 'Overlock', cursive;
-$clientfont-family-title: 'Overlock', cursive;
+$clientfont-family-base: 'Overlock';
+$clientfont-family-title: 'Overlock';
 
 // sizes
 $client-font-size-base: 16px;
 $client-lineheight-base: 1.6em;
-$client-font-weight-base: 400;
+$client-font-weight-base: light;
 $client-font-weight-light: 200;
 $client-font-weight-bold: 800;

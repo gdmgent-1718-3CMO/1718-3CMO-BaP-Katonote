@@ -5,7 +5,7 @@ body {
     font-weight: $font-weight-base;
     font-size: $font-size-base;
     line-height: $lineheight-base;
-    background-color: $body-bg;
+    background-color: white;
     color: $body-color;
 }
 
@@ -31,12 +31,10 @@ h3, h4, h5, h6 {
 }
 a {
     text-decoration: none;
-    color: $body-link;
-    border-bottom: dotted 1px $body-link;
+    color: $clientcolor-1;
     &:hover{
         color: $body-link;
         text-decoration: none;
-        border-bottom: solid 1px $body-link;
     }
     &:active{
         background-color: $body-link;
@@ -115,9 +113,18 @@ input[type=text], textarea {
 
 //content
 .content{
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
     margin-bottom: 200px;;
+}
+.content-block{
+    margin-bottom: 80px;
+}
+.align-bottom{
+    display: flex-end;
+    align-items: flex-end;
+    justify-content: center;
+    border: 2px;
 }
 
 //footer
