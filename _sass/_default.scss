@@ -112,3 +112,31 @@ input[type=text], textarea {
 .witbeeld{
     background-color: black;
 }
+
+//content
+.content{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 200px;;
+}
+
+//footer
+footer{
+    background-color: black;
+}
+.icons-footer{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.icons-footer>a>img{
+    height: 40px;
+}
+.images-footer>a>img{
+   height: 104px;
+}
+#artevelde{
+    height: 60px;
+}
+.center-footer{
+    text-align: center;
+}
