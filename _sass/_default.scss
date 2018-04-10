@@ -100,11 +100,15 @@ input[type=text], textarea {
 
 }
 //images
-.centerone{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 35px;
-    margin-bottom: 60px;
-    width: 50%;
+.tweecol{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 100%;
+}
+.driecol{
+    width: 100%;
+}
+.witbeeld{
+    background-color: black;
 }
