@@ -10,10 +10,10 @@ title: Basislogo
 ## Technische specificaties
 <div class="row">
     <div class="col-6">
-        <img src="images/logo/logo_technisch.png" alt="technische gegevens logo" class="centerone" class="tweecol">
+        <img src="../images/Logo/logo_technisch.png" alt="technische gegevens logo" class="centerone" class="tweecol">
     </div>
     <div class="col-6">
-        <img src="images/logo/logo_witruimte.png" alt= "technische gegevens logo" class="centerone" class="tweecol">
+        <img src="../images/Logo/logo_witruimte.png" alt= "technische gegevens logo" class="centerone" class="tweecol">
     </div>
 </div>
 
@@ -21,13 +21,13 @@ title: Basislogo
 <p> Er zijn drie verschillende variaties van het logo. Dit zogt ervoor dat het steeds op alle ondergronden toegepast kan worden. </p>
 <div class="row">
     <div class="col-4 2col">
-        <img src="../images/logo/Logo_PS1655C-PSBlack_72.png" alt="logo in 2 kleuren" class="driecol">
+        <img src="../images/Logo/Logo_PS1655C-PSBlack_72.png" alt="logo in 2 kleuren" class="driecol">
     </div>
     <div class="col-4">
-        <img src="../images/logo/Logo_PSBlack_72.png" alt="logo zwart" class="driecol">
+        <img src="../images/Logo/Logo_PSBlack_72.png" alt="logo zwart" class="driecol">
     </div>
     <div class="col-4">
-        <img src="../images/logo/Logo_PSWhite_72.png" alt="logo wit" class="driecol witbeeld">
+        <img src="../images/Logo/Logo_PSWhite_72.png" alt="logo wit" class="driecol witbeeld">
     </div>
 </div>
 
