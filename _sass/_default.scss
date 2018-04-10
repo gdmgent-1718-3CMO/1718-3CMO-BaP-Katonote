@@ -12,12 +12,13 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: $myfont-family-title;
     font-weight: $font-weight-bold;
+    color: $color-grey-2;
 }
 
 h1 {
     font-weight: $font-weight-light;
     font-size: 4rem;
-    color: $color-grey-2;
+    color: $clientcolor-1;
 }
 h2 {
     font-weight: $font-weight-light;
@@ -97,4 +98,13 @@ button, a.btn {
 }
 input[type=text], textarea {
 
+}
+//images
+.centerone{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    margin-bottom: 60px;
+    width: 50%;
 }
