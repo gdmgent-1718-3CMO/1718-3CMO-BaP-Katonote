@@ -10,10 +10,10 @@ title: Basislogo
 ## Technische specificaties
 <div class="row">
     <div class="col-6">
-        <img src="../images/logo/logo_technisch.png" alt="technische gegevens logo" class="centerone" class="tweecol">
+        <img src="images/logo/logo_technisch.png" alt="technische gegevens logo" class="centerone" class="tweecol">
     </div>
     <div class="col-6">
-        <img src="../images/logo/logo_witruimte.png" alt= "technisce gegevens logo" class="centerone" class="tweecol">
+        <img src="images/logo/logo_witruimte.png" alt= "technische gegevens logo" class="centerone" class="tweecol">
     </div>
 </div>
 
