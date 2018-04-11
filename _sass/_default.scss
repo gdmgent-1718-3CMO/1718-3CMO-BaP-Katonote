@@ -137,10 +137,35 @@ input[type=text], textarea {
     }
 }
 .oranje{
-    background-color: $clientcolor-1;
+    background-color: #FF4D00;
+    color: white;
 }
 .zwart{
     background-color: black;
+}
+.grijs{ 
+    background-color:  #F2F0EF;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.oranje8{
+    background-color: #FF773E;
+    color: white;
+}
+.oranje6{
+    background-color: #FF9B6D;
+    color: white;
+}
+.oranje4{
+    background-color: #FFBD9C;
+    color: white;
+}
+.oranje2{
+    background-color: #FFDECC;
+    color: white;
+}
+.oranje0{
+    background-color: #FEFEFE;
 }
 
 //footer
