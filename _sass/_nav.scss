@@ -30,11 +30,16 @@
  --------------------------- */
  #toc {
     margin-bottom: 1em;
+    position: fixed;
     .nav {
         display: block;
     }
-
  } 
+ nav[data-toggle=toc] .nav>li>a:focus, nav[data-toggle=toc] .nav>li>a:hover{
+     color: $clientcolor-1;
+     border-left: 2px solid $clientcolor-1;
+     font-weight: bold;
+ }
 
  /* Kato Aanpassingen
  --------------------------- */

@@ -13,8 +13,8 @@
   permalink: logo/
   # fa-icon: icon-graduation-cap
 
-- name: Kleur
-  description: Kleur
+- name: Elementen
+  description: Elementen
   folder: pages/kleur/
   permalink: kleur/i
   # fa-icon: icon-info

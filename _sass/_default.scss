@@ -55,11 +55,11 @@ main ul {
   li {
     padding-left: 25px;
     text-indent: -25px;
-    &:before {
+    /*&:before {
         content:'\2022';
         color: $mycolor-5;
         margin-right: 18px;
-    }    
+    } */   
   }
 }
 
@@ -110,6 +110,9 @@ input[type=text], textarea {
 .witbeeld{
     background-color: black;
 }
+.col-6>img{
+    margin-bottom: 20px;
+}
 
 //content
 .content{
@@ -125,6 +128,19 @@ input[type=text], textarea {
     align-items: flex-end;
     justify-content: center;
     border: 2px;
+}
+.colors{
+    ul{
+        color: white;
+        list-style-type: none;
+        padding-top: 20px;
+    }
+}
+.oranje{
+    background-color: $clientcolor-1;
+}
+.zwart{
+    background-color: black;
 }
 
 //footer

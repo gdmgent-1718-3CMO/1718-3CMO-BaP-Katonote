@@ -2,7 +2,7 @@
 # layout: vertical
 permalink: logo/CLogo_Icoon
 published: true
-title: Beeldmerk
+title: Download
 ---
 
 # Icoon
