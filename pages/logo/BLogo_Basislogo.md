@@ -32,7 +32,7 @@ In het logo wordt dit gesymboliseerd door een poes die de draad weer oppikt. </p
         <img src="../images/Logo/Logo_PS1655C-PSBlack_72.png" alt="logo in 2 kleuren" class="tweecol">
     </div>
     <div class="col-6">
-        <p>Het logo met twee kleuren is het meest gebruikte logo. De kleuren zijn de huisstijlkleuren van Helga’s Poezenhuis. Meer info hierover vind je onder <a href="../kleur">kleuren</a>.</p>
+        <p>Het logo met twee kleuren is het meest gebruikte logo. De kleuren zijn de huisstijlkleuren van Helga’s Poezenhuis. Meer info hierover vind je onder <a href="../kleur/index.html">kleuren</a>.</p>
     </div>
 </div>
 <div class="row align-bottom">
