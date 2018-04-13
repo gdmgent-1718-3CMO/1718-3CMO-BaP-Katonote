@@ -10,4 +10,9 @@ title: Poster
 
 <img src="../images/poster/template_affiche.jpg" Alt="Affiche Template" class="poster" width="100%">
 <img src="../images/poster/voorbeeld_affiche.jpg" Alt="Affiche Voorbeeld" class="poster" width="100%">
+<div class="grijskader">
+    <h2>Template downloaden</h2>
+    <p>Download hier de template voor de poster. Hou bij het maken van de poster rekening met bovenstaande regels.</p>
+    <button type="button" class="btn btn-primary">download</button>
+</div>
 

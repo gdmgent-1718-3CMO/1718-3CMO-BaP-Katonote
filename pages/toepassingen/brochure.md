@@ -50,4 +50,8 @@ title: Brochure
 <h3>Rode draad</h3>
 <p>Op de pagina bij de inhoudsopgave staat een afbeelding van een poes die speelt met een bol wol. Deze draad komt terug op elke pagina. De lijndikte bedraagt 2pt, de lijn mag enkel vloeiende bewegingen maken.</p>
 
-<h2>Template downloaden</h2>
+<div class="grijskader">
+    <h2>Template downloaden</h2>
+    <p>Download hier de template voor de brochure. Hou bij het maken van de brochure rekening met bovenstaande regels.</p>
+    <button type="button" class="btn btn-primary">download</button>
+</div>

@@ -12,21 +12,23 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: $myfont-family-title;
     font-weight: $font-weight-bold;
-    color: $color-grey-2;
+    color: $clientcolor-1;
 }
 
 h1 {
     font-weight: $font-weight-light;
-    font-size: 4rem;
+    font-size: 40pt;
     color: $clientcolor-1;
+    text-align: center;
 }
 h2 {
     font-weight: $font-weight-light;
-    font-size: 2rem;
+    font-size: 20pt;
     margin: 2rem 0 1rem;
 }
 h3, h4, h5, h6 {
     font-family: $myfont-family-base;
+    color: black;
     font-size: 1rem;
     margin: 2rem 0 0;
 }
@@ -44,8 +46,14 @@ a {
     &:focus{}
 }
 blockquote {
-    padding-left: 24px;
-    border-left: 2px solid $mycolor-5;
+    background-color: #F2F0EF;
+    width: 100%;
+    padding-bottom: 40px;
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 40px;
+    text-align: center;
 }
 
 // ongeordende lijstjes met een ander symbool of kleur
@@ -56,11 +64,11 @@ main ul {
   li {
     padding-left: 25px;
     text-indent: -25px;
-    /*&:before {
+    &:before {
         content:'\2022';
-        color: $mycolor-5;
+        color: $clientcolor-1;
         margin-right: 18px;
-    } */   
+    }    
   }
 }
 
@@ -80,19 +88,26 @@ main ol {
         padding: 3px 6px;
         margin-right: 5px;
         border-radius: 5px;
-        background-color: $mycolor-5;
-        color: $color-white;
+        color: $clientcolor-1;
         font-family: $myfont-family-title;
         font-weight: $font-weight-bold;
+        font-size: 18px;
       }    
     }
   }
 
 //forms 
 button, a.btn {
-    
-    &:hover{}
-    &:active{}
+    color: white;
+    background-color: $clientcolor-1;
+    border: $clientcolor-1;
+    &:hover{
+        background-color: #FF773E;
+    }
+    &:active{
+        background-color: #FF9B6D;
+         border: $clientcolor-1;
+    }
     &:focus{}
 }
 input[type=text], textarea {
@@ -135,6 +150,23 @@ input[type=text], textarea {
         color: white;
         list-style-type: none;
         padding-top: 20px;
+    }
+}
+.grijskader{
+    background-color: #F2F0EF;
+    width: 100%;
+    padding-bottom: 40px;
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 40px;
+    text-align: center;
+}
+.btn-primary{
+    background-color: $clientcolor-1;
+    border: $clientcolor-1;
+    &:hover{
+        background-color: #FF773E;
     }
 }
 .oranje{

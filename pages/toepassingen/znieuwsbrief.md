@@ -20,3 +20,8 @@ title: Nieuwsbrief
 
 
 <img src="../images/nieuwsbrief/nieuwsbrief.jpg" Alt="Nieuwsbrief" class="poster" width="50%">
+<div class="grijskader">
+    <h2>PDF Downloaden</h2>
+    <p>De nieuwsbrief wordt opgebouwd met <a href="">Mailchimp</a>. Download de PDF van de nieuwsbrief als voorbeeld.</p>
+    <button type="button" class="btn btn-primary">download</button>
+</div>
