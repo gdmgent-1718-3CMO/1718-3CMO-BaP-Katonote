@@ -23,7 +23,7 @@ title: Stationery
 <p> De voorzijde is de zijde waar het adres geplaatst wordt. In de linker bovenhoek komt het logo, in de linker onderhoek staan de gegeves van het poezenhuis.</p>
 <h3>Achterzijde</h3>
 <p>De achterzijde van de enveloppe is de zijde waar hij toegekleefd wordt. De footer uit het briefpapier keert hier terug. </p>
-<img src="../images/stationery/stationery.jpg" Alt="Stationery" class="poster" width="100%">
+<img src="../images/stationery/Stationery.jpg" Alt="Stationery" class="poster" width="100%">
 <div class="grijskader">
     <h2>Template downloaden</h2>
     <p>Download hier de templates voor de stationery. Hou bij het maken van de stationery rekening met bovenstaande regels.</p>
