@@ -26,7 +26,7 @@ title: Brochure
 
 <h3>Broodtekst</h3>
 <p>De broodtekst wordt samen met de secundaire en tertiaire titels in twee kolommen opgedeeld. Tussen de kolommen bevindt zich een ruimte van 6mm. Alle regels worden uitgelijnd op het basislijnraster. Voor de broodtekst wordt het lettertype Roboto Light gebruikt. De x-hoogte bedraagt 11pt, de tekst is zwart. </p> 
-<img src="../images/brochure/brochure-titels.png" Alt="Brochure tekst" width="100%">
+<img src="../images/brochure/brochure-technisch.png" Alt="Affiche Voorbeeld" class="poster" width="100%">
 
 <h3>Bullet list</h3>
 <p>De bullets zijn kleine oranje bolletjes. Deze worden uitgelijnd op dezelfde lijn als de broodteskt. De opgesomde tekst start op 6mm van de bullets. Indien het punt over meerdere regels loopt, start de volgende regel op gelijke hoogte als de vorige.</p>
