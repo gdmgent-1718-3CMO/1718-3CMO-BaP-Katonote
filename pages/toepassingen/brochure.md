@@ -37,6 +37,9 @@ title: Brochure
 <img src="../images/brochure/brochure-numberinglist.PNG" Alt="Brochure bullets" width="100%">
 
 <h2>Andere elementen</h2>
+<h3>Cover</h3> 
+<p> Dit is de enige toepssing waar het logo uit elkaar gehaald mag worden. De cover mag niet aangepast worden, enkel de titel mag variëren.</p>
+<img src="../images/brochure/brochure-cover.PNG" Alt="Brochure bullets" width="100%">
 <h3>Informatief kader</h3>
 <p> Dit kader moet in elke brochure voorkomen. De tekst in het kader geeft een korte uitleg over het poezenhuis. De kader heeft de oranje huisstijlkleur en is aflopend aan drie zijden. Voor de titel wordt Overlock Bold gebruikt, de broodtekst wordt opgebouwd uit Overlock Regular. De kleur van de tekst is wit. </p>
 
