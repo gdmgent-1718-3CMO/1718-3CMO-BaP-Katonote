@@ -1,6 +1,6 @@
 ---
 # layout: vertical
-permalink: toepassingen/
+permalink: toepassingen/brochure
 published: true
 title: Brochure
 ---
