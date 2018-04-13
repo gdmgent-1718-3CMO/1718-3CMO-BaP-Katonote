@@ -26,15 +26,15 @@ title: Brochure
 
 <h3>Broodtekst</h3>
 <p>De broodtekst wordt samen met de secundaire en tertiaire titels in twee kolommen opgedeeld. Tussen de kolommen bevindt zich een ruimte van 6mm. Alle regels worden uitgelijnd op het basislijnraster. Voor de broodtekst wordt het lettertype Roboto Light gebruikt. De x-hoogte bedraagt 11pt, de tekst is zwart. </p> 
-<img src="../images/brochure/brochure-technisch.png" Alt="Affiche Voorbeeld" class="poster" width="100%">
+<img src="../images/brochure/brochure-technisch.PNG" Alt="Brochure technisch" width="100%">
 
 <h3>Bullet list</h3>
 <p>De bullets zijn kleine oranje bolletjes. Deze worden uitgelijnd op dezelfde lijn als de broodteskt. De opgesomde tekst start op 6mm van de bullets. Indien het punt over meerdere regels loopt, start de volgende regel op gelijke hoogte als de vorige.</p>
-<img src="../images/brochure/brochure-bulletlist.png" Alt="Brochure bullets" width="100%">
+<img src="../images/brochure/brochure-bulletlist.PNG" Alt="Brochure bullets" width="100%">
 
 <h3>Numbering list</h3>
 <p>Voor de cijfers van de genummerde lijst wordt Roboto Bold gebruikt. De x-hoogte bedraagt 12pt. De nummers hebben de oranje huisstijlkleur, ze worden uitgelijnd op dezelfde lijn als de broodtekst. De opgesomde tekst start op 6mm van de cijfers.</p>
-<img src="../images/brochure/brochure-numberinglist.png" Alt="Brochure bullets" width="100%">
+<img src="../images/brochure/brochure-numberinglist.PNG" Alt="Brochure bullets" width="100%">
 
 <h2>Andere elementen</h2>
 <h3>Informatief kader</h3>
@@ -42,7 +42,7 @@ title: Brochure
 
 <h3>Inhoudsopgave</h3> 
 <p> De inhoudsopgave wordt opgebouwd uit het lettertype Roboto Bold in een zwarte kleur. Enkel de primaire titels komen in de inhoudsopgave. De paginanummering komt aan het einde van de regel in de oranje huisstijlkleur.</p>
-<img src="../images/brochure/brochure-inhoud.png" Alt="Brochure bullets" width="100%">
+<img src="../images/brochure/brochure-inhoud.PNG" Alt="Brochure bullets" width="100%">
 
 <h3>Paginanummering</h3> 
 <p>De paginanummers stan onderaan de buitenzijde van de brochure. Ze komt enkel op pagina's met een broodtekst. Indien er een afbeelding staat op de plaats waar een paginanummer komt, dan valt dit weg. Het paginanummer staat in een zwarte lus met een lijndikte van 2pt. Als lettertype wordt Overlock Bld gebruikt, de x-hoogte bedraagt 10pt.</p>
