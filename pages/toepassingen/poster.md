@@ -12,7 +12,7 @@ title: Poster
 <img src="../images/poster/voorbeeld_affiche.jpg" Alt="Affiche Voorbeeld" class="poster" width="100%">
 <div class="grijskader">
     <h2>Template downloaden</h2>
-    <p>Download hier de template voor de poster. Hou bij het maken van de poster rekening met bovenstaande regels.</p>
+    <a href="https://1drv.ms/f/s!AuIULz-refmDaaqJJH1ZH9e9VbM"><p>Download hier de template voor de poster. Hou bij het maken van de poster rekening met bovenstaande regels.</p></a>
     <button type="button" class="btn btn-primary">download</button>
 </div>
 

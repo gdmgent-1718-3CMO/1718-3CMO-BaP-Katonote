@@ -23,5 +23,5 @@ title: Nieuwsbrief
 <div class="grijskader">
     <h2>PDF Downloaden</h2>
     <p>De nieuwsbrief wordt opgebouwd met <a href="">Mailchimp</a>. Download de PDF van de nieuwsbrief als voorbeeld.</p>
-    <button type="button" class="btn btn-primary">download</button>
+    <a href="https://1drv.ms/f/s!AuIULz-refmDaaqJJH1ZH9e9VbM"><button type="button" class="btn btn-primary">download</button></a>
 </div>

@@ -27,5 +27,5 @@ title: Stationery
 <div class="grijskader">
     <h2>Template downloaden</h2>
     <p>Download hier de templates voor de stationery. Hou bij het maken van de stationery rekening met bovenstaande regels.</p>
-    <button type="button" class="btn btn-primary">download</button>
+    <a href="https://1drv.ms/f/s!AuIULz-refmDaaqJJH1ZH9e9VbM"><button type="button" class="btn btn-primary">download</button></a>
 </div>

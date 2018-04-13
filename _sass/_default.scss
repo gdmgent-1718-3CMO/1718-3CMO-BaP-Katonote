@@ -101,6 +101,7 @@ button, a.btn {
     color: white;
     background-color: $clientcolor-1;
     border: $clientcolor-1;
+    border-radius: .25rem;
     &:hover{
         background-color: #FF773E;
     }
@@ -111,6 +112,12 @@ button, a.btn {
     &:focus{}
 }
 input[type=text], textarea {
+
+//Tables
+.table thead th{
+    background-color: #FF773E;
+    color: white;
+}
 
 }
 //images
@@ -202,6 +209,9 @@ input[type=text], textarea {
 }
 .poster{
     margin-bottom: 20px;
+}
+.margeonder{
+    margin-bottom: 40px;
 }
 
 //footer

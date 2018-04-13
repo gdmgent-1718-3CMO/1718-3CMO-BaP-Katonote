@@ -9,9 +9,8 @@
 
 - name: Logo
   description: Logo
-  folder: pages/logo/
-  permalink: logo/
-  # fa-icon: icon-graduation-cap
+  folder: pages/Logo/
+  permalink: Logo/i
 
 - name: Elementen
   description: Elementen

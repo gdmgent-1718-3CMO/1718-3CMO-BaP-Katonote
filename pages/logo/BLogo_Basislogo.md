@@ -71,85 +71,8 @@ In het logo wordt dit gesymboliseerd door een poes die de draad weer oppikt. </p
         <p>Het beeldmerk kan ook in de zwarte en witte vorm gebruikt worden. Voor het beeldmerk gelden dezelfde regels als voor het woord- en beeldmerk.</p>
     </div>
 </div>
-
-## Foutief gebruik
-<div class="row">
-    <div class="col-6">
-       <img src="../images/dont/achtergrond_imgX.png" alt="logo wit" class="tweecol">
-    </div>
-    <div class="col-6">
-        <img src="../images/dont/achtergrond_imgV.png" alt="logo wit" class="tweecol">
-    </div>
-</div>
-<div class="row content-block">
-    <div class="col-md-12">
-       <p>Kleurenlogo mag niet op een afbeelding geplaatst worden.
-        Indien het logo toch op een achtergrond geplaast moet worden, maak dan geruik van het witte logo. 
-        Leg eventueel een zwarte, transparate laag over het beeld om het contrast met het logo te vergroten. Zorg ervoor dat het logo het beeld niet stoort.</p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-md-6">
-       <img src="../images/dont/achtergrond_kleurX.png" alt="logo wit" class="tweecol">
-    </div>
-    <div class="col-6">
-        <img src="../images/dont/uit_elkaar.png" alt="logo wit" class="tweecol">
-    </div>
-</div>
-<div class="row content-block">
-    <div class="col-md-6">
-       <p>Het kleurenlogo mag niet op een gekleurde achtergrond geplaatst worden. Dit mag wel met het witte logo, indien de achtergrond- kleur een van de huisstijlkleuren is.</p>
-    </div>
-    <div class="col-6">
-        <p>Haal het logo niet uit elkaar, tenzij aangegeven (zie <a href="">brochure</a>). Indien er geen tekst gewenst is, maak dan gebruik van het beeldlogo. </p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-6">
-       <img src="../images/dont/contouren.png" alt="logo wit" class="tweecol">
-    </div>
-    <div class="col-6">
-        <img src="../images/dont/dropshadow.png" alt="logo wit" class="tweecol">
-    </div>
-</div>
-<div class="row content-block">
-    <div class="col-6">
-       <p>Het logo mag nooit omlijnd worden.</p>
-    </div>
-    <div class="col-6">
-        <p>Er mag nooit een effect op het logo toegepast worden.</p>
-    </div>
-</div>
-<div class="row">
-    <div class="col-6">
-       <img src="../images/dont/onvolledig.png" alt="logo wit" class="tweecol">
-    </div>
-    <div class="col-6">
-        <img src="../images/dont/uitgerokken.png" alt="logo wit" class="tweecol">
-    </div>
-</div>
-<div class="row content-block">
-    <div class="col-6">
-       <p>Zorg ervoor dat het logo steeds volledig afgebeeld wordt.</p>
-    </div>
-     <div class="col-6">
-        <p>Het logo mag in geen enkele richting vervormd worden.</p>
-    </div>
-    
-</div>
-<div class="row ">
-    <div class="col-6">
-       <img src="../images/dont/andere_kleur.png" alt="logo wit" class="tweecol">
-    </div>
-    <div class="col-6">
-        <img src="../images/dont/grijswaarden.png" alt="logo wit" class="tweecol">
-    </div>
-</div>
-<div class="row content-block">
-    <div class="col-6">
-       <p>Het logo mag nooit in een andere kleur weergegeven worden.</p>
-    </div>
-    <div class="col-6">
-        <p>Het logo mag nooit omgezet worden in grijswaarden. Indien het drukwerk niet in kleur gedrukt zal worden, maak dan gebruik van het zwarte logo.</p>
-    </div>
+<div class="grijskader">
+    <h2>Downloaden</h2>
+    <p>Download hier  Het logo in verschillende formaten.</p>
+    <a href="https://1drv.ms/f/s!AuIULz-refmDaaqJJH1ZH9e9VbM"><button type="button" class="btn btn-primary">download</button></a>
 </div>
