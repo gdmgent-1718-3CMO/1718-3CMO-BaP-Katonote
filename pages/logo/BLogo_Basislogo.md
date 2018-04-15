@@ -1,6 +1,6 @@
 ---
 # layout: vertical
-permalink: logo/BLogo_Basislogo
+permalink: Logo/BLogo_Basislogo
 published: true
 title: Logo
 ---
