@@ -1,6 +1,6 @@
 ---
 # layout: vertical
-permalink: logo/CLogo_Icoon
+permalink: Logo/cfoutiefgebruik
 published: true
 title: Foutief gebruik
 ---

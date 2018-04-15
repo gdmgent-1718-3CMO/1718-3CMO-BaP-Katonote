@@ -5,7 +5,7 @@ published: true
 title: Logo
 ---
 
-# logo
+# Logo
 ## Het verhaal
 <div class="content-block">
     <p>Ons logo is niet zomaar een logo, het vertelt ons verhaal. 
