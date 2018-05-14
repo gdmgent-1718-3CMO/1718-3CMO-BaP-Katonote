@@ -36,7 +36,7 @@ title: Foutief gebruik
        <p>Het kleurenlogo mag niet op een gekleurde achtergrond geplaatst worden. Dit mag wel met het witte logo, indien de achtergrond- kleur een van de huisstijlkleuren is.</p>
     </div>
     <div class="col-6">
-        <p>Haal het logo niet uit elkaar, tenzij aangegeven (zie <a href="">brochure</a>). Indien er geen tekst gewenst is, maak dan gebruik van het beeldlogo. </p>
+        <p>Haal het logo niet uit elkaar, tenzij aangegeven (zie brochure). Indien er geen tekst gewenst is, maak dan gebruik van het beeldlogo. </p>
     </div>
 </div>
 <div class="row">
